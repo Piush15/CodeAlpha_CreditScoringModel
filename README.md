@@ -1,4 +1,4 @@
-# Smart Credit Scoring Model Using Machine Learning
+# Credit Scoring Model Using Machine Learning
 
 ## Project Overview
 This project predicts customer creditworthiness using Machine Learning classification algorithms.
